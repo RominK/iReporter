@@ -144,3 +144,65 @@ table > tr > td > a:hover{
     font-size: 20px;
     font-weight: bold;
 }
+
+.profile{
+   
+   
+    height: 200px;
+    background-color: #fff;
+    border-radius: 50%;
+    color: black; 
+    width: 200px;
+  
+}
+
+.profile-pic{
+    float: left;
+    width: 33%;
+    padding: 10px;
+    box-sizing: border-box;
+}
+
+.profile-data{
+    float: left;
+    width:66%;
+    background-color: #fff;
+    min-height: 200px;
+    padding: 10px;
+    margin-top: 30px;
+    box-sizing: border-box;
+    color: black;
+    border-radius: 20px;
+}
+
+.inc-type{
+    float: left;
+    box-sizing: border-box;
+}
+
+.total-count{
+ float: right;
+ box-sizing: border-box;
+}
+
+.clr{
+    clear: both;
+}
+
+.b-color{
+    background-color: #fff;
+    color: black;
+}
+
+.box{
+    width: 400px;
+    height: 300px;
+    border: 2px solid green;
+    margin-bottom: 10px;
+}
+
+.box > p{
+    font-size: 40px;
+    text-align: center;
+    padding-top: 100px;
+}
