@@ -104,11 +104,15 @@ a{
     color: #fff;
     font-size: 18px;
     padding: 5px;
-
-   
+    border-radius: 15px;
 }
 .button:hover{
     background-color: black;
+}
+
+#mainSection .save{
+    margin-left: 80%;
+    margin-top: 10px;
 }
 
 td{
@@ -122,4 +126,8 @@ td{
 
 .type-green{
     background-color: green;
+}
+
+table > tr > td > a:hover{
+    background-color: black;
 }
