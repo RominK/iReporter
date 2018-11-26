@@ -37,10 +37,25 @@ body{
     display: inline;
     font-size: 24px;
     padding-right: 20px;
-    margin-top: 0;
     
 }
 
+.links{
+    background-color: gray;
+    padding-bottom: 0px;
+    border:2px solid green;
+    border-radius: 20px;
+}
+
+.links li{
+    display: block;
+    font-size: 24px;
+ 
+}
+
+.links a{
+    text-decoration: underline;
+}
 
 #showcase{
     margin-top: 20px;
