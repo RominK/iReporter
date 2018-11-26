@@ -44,6 +44,7 @@ body{
 
 #showcase{
     margin-top: 20px;
+    margin-bottom: 20px;
    
 }
 
@@ -102,4 +103,23 @@ a{
     background-color: green;
     color: #fff;
     font-size: 18px;
+    padding: 5px;
+
+   
+}
+.button:hover{
+    background-color: black;
+}
+
+td{
+    padding: 10px;
+    margin: 0;
+}
+
+.type-red{
+    background-color: red;
+}
+
+.type-green{
+    background-color: green;
 }
